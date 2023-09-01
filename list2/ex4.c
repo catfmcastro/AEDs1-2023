@@ -12,7 +12,7 @@ AEDs 1 - Gabriel Barbosa da Fonseca
 int main(void)
 {
     int n, i;
-    float fat = 1, e;
+    float fat = 1, e = 1;
 
     printf("\n Insira um número: ");
     scanf(" %d", &n);
